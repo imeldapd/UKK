@@ -1,0 +1,40 @@
+D:\ProjectUKK\OOP\OOP\bin\Debug\OOP.exe.config
+D:\ProjectUKK\OOP\OOP\bin\Debug\OOP.exe
+D:\ProjectUKK\OOP\OOP\bin\Debug\OOP.pdb
+D:\ProjectUKK\OOP\OOP\obj\Debug\OOP.csprojAssemblyReference.cache
+D:\ProjectUKK\OOP\OOP\obj\Debug\OOP.Form1.resources
+D:\ProjectUKK\OOP\OOP\obj\Debug\OOP.Properties.Resources.resources
+D:\ProjectUKK\OOP\OOP\obj\Debug\OOP.csproj.GenerateResource.cache
+D:\ProjectUKK\OOP\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+D:\ProjectUKK\OOP\OOP\obj\Debug\OOP.exe
+D:\ProjectUKK\OOP\OOP\obj\Debug\OOP.pdb
+C:\Users\Windows 10\Downloads\OOP\OOP\OOP\bin\Debug\OOP.exe.config
+C:\Users\Windows 10\Downloads\OOP\OOP\OOP\bin\Debug\OOP.exe
+C:\Users\Windows 10\Downloads\OOP\OOP\OOP\bin\Debug\OOP.pdb
+C:\Users\Windows 10\Downloads\OOP\OOP\OOP\obj\Debug\OOP.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Downloads\OOP\OOP\OOP\obj\Debug\OOP.Form1.resources
+C:\Users\Windows 10\Downloads\OOP\OOP\OOP\obj\Debug\OOP.Properties.Resources.resources
+C:\Users\Windows 10\Downloads\OOP\OOP\OOP\obj\Debug\OOP.csproj.GenerateResource.cache
+C:\Users\Windows 10\Downloads\OOP\OOP\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Downloads\OOP\OOP\OOP\obj\Debug\OOP.exe
+C:\Users\Windows 10\Downloads\OOP\OOP\OOP\obj\Debug\OOP.pdb
+D:\UKK\OOP\OOP\OOP\bin\Debug\OOP.exe.config
+D:\UKK\OOP\OOP\OOP\bin\Debug\OOP.exe
+D:\UKK\OOP\OOP\OOP\bin\Debug\OOP.pdb
+D:\UKK\OOP\OOP\OOP\obj\Debug\OOP.csproj.AssemblyReference.cache
+D:\UKK\OOP\OOP\OOP\obj\Debug\OOP.Form1.resources
+D:\UKK\OOP\OOP\OOP\obj\Debug\OOP.Properties.Resources.resources
+D:\UKK\OOP\OOP\OOP\obj\Debug\OOP.csproj.GenerateResource.cache
+D:\UKK\OOP\OOP\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+D:\UKK\OOP\OOP\OOP\obj\Debug\OOP.exe
+D:\UKK\OOP\OOP\OOP\obj\Debug\OOP.pdb
+D:\UKK\OOP\OOP\bin\Debug\OOP.exe.config
+D:\UKK\OOP\OOP\bin\Debug\OOP.exe
+D:\UKK\OOP\OOP\bin\Debug\OOP.pdb
+D:\UKK\OOP\OOP\obj\Debug\OOP.csproj.AssemblyReference.cache
+D:\UKK\OOP\OOP\obj\Debug\OOP.Form1.resources
+D:\UKK\OOP\OOP\obj\Debug\OOP.Properties.Resources.resources
+D:\UKK\OOP\OOP\obj\Debug\OOP.csproj.GenerateResource.cache
+D:\UKK\OOP\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+D:\UKK\OOP\OOP\obj\Debug\OOP.exe
+D:\UKK\OOP\OOP\obj\Debug\OOP.pdb
